@@ -1,0 +1,1 @@
+O resultado da soma entre 10 + 10 é 20 /n
